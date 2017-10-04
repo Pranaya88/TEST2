@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 This is now modified.
+=======
+>>>>>>> 71bf9426fefd85d4ec7c9c18a30e296ebbe8e740
 This file is modified again by Pranaya87.
 Hello. This is a test file in TEST2 repository.
